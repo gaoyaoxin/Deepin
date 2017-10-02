@@ -12,7 +12,7 @@
 ### 3.1.1 在应用商店中搜索 redshift 并安装
 ### 3.1.2 在文件管理器中主目录后继续输入 /.config 进入该目录
 ### 3.1.3 新建 redshift.conf 文件，格式参照 [redshift.conf.sample](https://github.com/jonls/redshift/blob/master/redshift.conf.sample)
-### 3.1.4 更改第34行的白天、夜间默认色温
+### 3.1.4 更改第3、4行的白天、夜间默认色温
 
 ## 3.2 打开、关闭外接键盘背光
 ### 3.1 打开终端，输入 xset led 以打开背光
