@@ -14,6 +14,7 @@
 ### 3.1.3 新建 redshift.conf 文件，格式参照 [redshift.conf.sample](https://github.com/jonls/redshift/blob/master/redshift.conf.sample)
 ### 3.1.4 更改第3、4行的白天、夜间默认色温（参考值4000，2700或4000，2400）
 ### 3.1.5 任务栏右击 redshift 图标->信息，查看纬度、经度，参照这两个值更改第45、46行的纬度、经度
+### 3.1.6 关闭并重新打开 redshift 以使设置生效
 ## 3.2 打开、关闭外接键盘背光
 ### 3.2.1 方法一
 ### 3.2.1.1 打开终端，输入 xset led 以打开背光
