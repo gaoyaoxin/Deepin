@@ -17,6 +17,6 @@
 ### 3.1.6 关闭并重新打开 redshift 以使设置生效
 ## 3.2 打开、关闭外接键盘背光
 ### 3.2.1 方法一
-### 3.2.1.1 打开终端，输入 xset led 以打开背光
-### 3.2.1.2 打开终端，输入 xset -led 以关闭背光
+### 3.2.1.1 打开终端，输入 xset led 3 以打开背光
+### 3.2.1.2 打开终端，输入 xset -led 3 以关闭背光
 ### 3.2.2 方法二（详见 repo [keyboardLed](https://github.com/gaoyaoxin/keyboardLed)）
