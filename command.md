@@ -14,8 +14,12 @@
 |-|-|
 |git clone URL地址|克隆|
 |git pull origin master|将origin版本库中master分支更新到本地当前分支|
-|git remote add origin URL|#关联远程库|
-|git push -u origin master|#首次推送master分支|
+|git config --global user.email "you@example.com"|设置身份标识，如果仅在本仓库设置身份标识，则省略 --global 参数|
+|git config --global user.name "Your Name"|设置身份标识，如果仅在本仓库设置身份标识，则省略 --global 参数|
+|git remote add origin URL|# 关联远程库|
+|git push -u origin master|# 首次推送master分支|
 |git add .||
 |git commit||
 |git push origin master|推送最新修改|
+
+\# 可省略
