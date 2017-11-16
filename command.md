@@ -19,7 +19,12 @@
 |git remote add origin URL|# 关联远程库|
 |git push -u origin master|# 首次推送master分支|
 |git add .||
-|git commit||
+|git commit -m "Input update notes here."||
 |git push origin master|推送最新修改|
 
 \# 可省略
+
+
+|命令|功能|
+|-|-|
+|!!|再次执行上一条命令|
