@@ -20,3 +20,10 @@
 ### 3.2.1.1 打开终端，输入 xset led 3 以打开背光
 ### 3.2.1.2 打开终端，输入 xset -led 3 以关闭背光
 ### 3.2.2 方法二（详见 repo [keyboardLed](https://github.com/gaoyaoxin/keyboardLed)）
+
+
+/etc/ImageMagick-6/policy.xml  
+line 53  
+  <policy domain="resource" name="memory" value="256MiB"/>
+ -->2GiB
+ ## sudo gedit 打开文本编辑器
