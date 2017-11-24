@@ -27,3 +27,12 @@ line 53
   <policy domain="resource" name="memory" value="256MiB"/>
  -->2GiB
  ## sudo gedit 打开文本编辑器
+
+
+## 解决 WiFi, Bluetooth 驱动问题
+### 下载并解压Zip，进入主目录 https://github.com/lwfinger/rtlwifi_new
+```
+make
+sudo make install
+reboot
+```
